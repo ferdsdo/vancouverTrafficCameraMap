@@ -1,0 +1,29 @@
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.maplibregl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+#clock {
+    position: absolute;
+    border-radius: 25px;
+    background-color: #F0F0F0;
+    margin: 10px;
+    padding: 5px; 
+    top: 0px;
+    right: 35px;
+}
+#legend {
+    border-radius: 25px;
+    padding: 5px; 
+    position: absolute;
+    background-color: #F0F0F0;
+    margin: auto;
+}
