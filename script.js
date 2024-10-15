@@ -153,12 +153,54 @@ function toggleSidebar(id) {
     elem.className = classes.join(' ');
 }
 
+async function getHtmlContent(url, htmlElement) {
+// Fetch the local JSON file
+camLink = 'https://trafficcams.vancouver.ca/'
+fetch('scraped_data.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json(); // Parse the JSON
+    })
+    .then(data => {
+        for (i in data[url]) {
+            htmlString = data[url][i]
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = htmlString;
+
+            const imgElement = tempDiv.querySelector('img');
+
+            if(imgElement) {
+                const currentSrc = imgElement.src; // This gives the absolute URL
+                // Modify the src attribute to add 'www.' to the front
+                const newSrc = currentSrc.replace(window.location, camLink); // This regex retains the original domain and path after 'http(s)://'
+                
+                imgElement.src = newSrc; // Set the new src value
+            }
+        const modifiedHtmlString = tempDiv.innerHTML;
+        htmlElement.appendChild(tempDiv)
+        // ToDo: modify the styles of the images
+
+        } 
+        // Call a function to display the data on the page
+        // displayData(data);
+    })
+    .catch(error => {
+        console.error('Error fetching the JSON file:', error);
+    });
+}
+
+
 function setPanelContent(feature) {
     const tbody = document.querySelector("#tbody")
             tbody.innerHTML = "";
             // document.getElementById('jsonTable').innerHTML = ''
             document.getElementById('right-text').innerHTML = ''
-            clickedGeoJson = sortGeoJSONFeatureProperties(feature) // make it so sidebar properties are sorted
+            clickedGeoJson = sortGeoJSONFeatureProperties(feature); // make it so sidebar properties are sorted
+
+            getHtmlContent(clickedGeoJson.properties['url'],tbody)
+
             for (let key in clickedGeoJson.properties) {
                 if (clickedGeoJson.properties.hasOwnProperty(key)) {
 
@@ -188,7 +230,7 @@ function setPanelContent(feature) {
 
                         // Property name cell (not editable)
                         const propertyNameCell = document.createElement('td')
-                        propertyNameCell.textContent = 'Link'
+                        propertyNameCell.textContent = key
                         row.appendChild(propertyNameCell);
     
                         // Property value cell (editable input)

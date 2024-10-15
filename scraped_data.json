@@ -1,0 +1,1121 @@
+{
+    "https://trafficcams.vancouver.ca/alma10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Alma St and W 10th Ave - North\" height=\"480\" src=\"cameraimages/AlmaNorthW10th.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Alma St and W 10th Ave - East\" height=\"480\" src=\"cameraimages/W10thEastAlma.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Alma &amp; 10th - South\" height=\"480\" src=\"cameraimages/AlmaSouthW10th.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Alma &amp; 10th - West\" height=\"480\" src=\"cameraimages/W10thWestAlma.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/anderson04.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Anderson St and W 4th Ave - North\" height=\"480\" src=\"cameraimages/Anderson04North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Anderson St and W 4th Ave - East\" height=\"480\" src=\"cameraimages/Anderson04East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Anderson St and W 4th Ave - West\" height=\"480\" src=\"cameraimages/Anderson04West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/andersonLameysMill.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Anderson St and Lamey's Mill Rd - North\" height=\"480\" src=\"cameraimages/AndersonLameysNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Anderson St and Lamey's Mill Rd - East\" height=\"480\" src=\"cameraimages/AndersonLameysEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Anderson St and Lamey's Mill Rd - South\" height=\"480\" src=\"cameraimages/AndersonLameysSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Anderson St and Lamey's Mill Rd - West\" height=\"480\" src=\"cameraimages/AndersonLameysWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/angusMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Angus Dr and SW Marine Dr - North\" height=\"202\" src=\"cameraimages/AngusMarineNorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Angus Dr and SW Marine Dr\" height=\"202\" src=\"cameraimages/AngusMarineEast.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Angus Dr and SW Marine Dr - West\" height=\"202\" src=\"cameraimages/AngusMarineWest.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutus12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Arbutus and W 12th - North\" height=\"480\" src=\"cameraimages/Arbutus12North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus and W 12th - East\" height=\"480\" src=\"cameraimages/Arbutus12East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Arbutus and W 12th - South\" height=\"480\" src=\"cameraimages/Arbutus12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Arbutus and W 12th - West\" height=\"480\" src=\"cameraimages/Arbutus12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutus16.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Arbutus and W 16th - North\" height=\"480\" src=\"cameraimages/Arbutus16North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus and W 16th - East\" height=\"480\" src=\"cameraimages/Arbutus16East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Arbutus and W 16th - South\" height=\"480\" src=\"cameraimages/Arbutus16South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Arbutus and W 16th - West\" height=\"480\" src=\"cameraimages/Arbutus16West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutusBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Arbutus and Broadway - North\" height=\"480\" src=\"cameraimages/ArbutusBroadwayNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus and Broadway - East\" height=\"480\" src=\"cameraimages/ArbutusBroadwayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Arbutus and Broadway - South\" height=\"480\" src=\"cameraimages/ArbutusBroadwaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Arbutus and Broadway - West\" height=\"480\" src=\"cameraimages/ArbutusBroadwayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutusGreenwaySWMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus Greenway and SW Marine Dr - East\" height=\"480\" src=\"cameraimages/ArbutusGreenwaySWMEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Arbutus Greenway and SW Marine Dr - West\" height=\"480\" src=\"cameraimages/ArbutusGreenwaySWMWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutusLahb.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Arbutus St and W Lahb Ave - North\" height=\"480\" src=\"cameraimages/ArbutusLahbNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus St and W Lahb Ave - South\" height=\"480\" src=\"cameraimages/ArbutusLahbSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Arbutus St and W Lahb Ave - West\" height=\"480\" src=\"cameraimages/ArbutusLahbWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/arbutusWKingEdward.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Arbutus St and W King Edward Ave - North\" height=\"480\" src=\"cameraimages/ArbutusKingEdNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Arbutus St and W King Edward Ave - East\" height=\"480\" src=\"cameraimages/ArbutusKingEdEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Arbutus St and W King Edward Ave - South\" height=\"480\" src=\"cameraimages/ArbutusKingEdSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Arbutus St and W King Edward Ave - West\" height=\"480\" src=\"cameraimages/ArbutusKingEdWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/argylemarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Argyle St and Marine Dr - North\" height=\"202\" src=\"cameraimages/ArgyleMarineNorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Argyle St and Marine Dr - East\" height=\"202\" src=\"cameraimages/ArgyleMarineEast.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Argyle St and Marine Dr - South\" height=\"202\" src=\"cameraimages/ArgyleMarineSouth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Argyle St and Marine Dr - West\" height=\"202\" src=\"cameraimages/ArgyleMarineWest.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/ash10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Ash St and W 10th Ave - North\" height=\"480\" src=\"cameraimages/Ash10North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Ash St and W 10th Ave - East\" height=\"480\" src=\"cameraimages/Ash10East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Ash St and W 10th Ave - South\" height=\"480\" src=\"cameraimages/Ash10South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Ash St and W 10th Ave - West\" height=\"480\" src=\"cameraimages/Ash10West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BeattyDunsmuir.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Beatty St and Dunsmuir St - North\" height=\"480\" src=\"cameraimages/BeattyDunsmuirNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Beatty St and Dunsmuir St - East\" height=\"480\" src=\"cameraimages/BeattyDunsmuirEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Beatty St and Dunsmuir St - South\" height=\"480\" src=\"cameraimages/BeattyDunsmuirSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Beatty St and Dunsmuir St - West\" height=\"480\" src=\"cameraimages/BeattyDunsmuirWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/beattyGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Beatty St and Georgia St - North\" height=\"480\" src=\"cameraimages/BeattyNorth_Georgia.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Beatty St and Georgia St - East\" height=\"480\" src=\"cameraimages/GeorgiaEast_Beatty.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Beatty St and Georgia St - South\" height=\"480\" src=\"cameraimages/BeattySouth_Georgia.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Beatty St and Georgia St - West\" height=\"480\" src=\"cameraimages/GeorgiaWest_Beatty.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/beattySmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Beatty St and Smithe St - North\" height=\"480\" src=\"cameraimages/BeattyNorthSmithe.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Beatty St and Smithe St - East\" height=\"480\" src=\"cameraimages/SmitheEastBeatty.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Beatty St and Smithe St - South\" height=\"480\" src=\"cameraimages/BeattySouthSmithe.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Beatty St and Smithe St - West\" height=\"480\" src=\"cameraimages/SmitheWestBeatty.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/blanca10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Blanca St and W 10th Ave - North\" height=\"480\" src=\"cameraimages/Blanca10North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Blanca St and W 10th Ave - East\" height=\"480\" src=\"cameraimages/Blanca10East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Blanca St and W 10th Ave - South\" height=\"480\" src=\"cameraimages/Blanca10South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Blanca St and W 10th Ave - West\" height=\"480\" src=\"cameraimages/Blanca10West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boulevards41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boulevards and W 41st Ave - North\" height=\"480\" src=\"cameraimages/WBlvdNorth41.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boulevards and W 41st Ave - East\" height=\"480\" src=\"cameraimages/41EastWBlvd.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boulevards and W 41st Ave - South\" height=\"480\" src=\"cameraimages/WBlvdSouth41.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boulevards and W 41st Ave - West\" height=\"480\" src=\"cameraimages/41WestWBlvd.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundary1.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Road and E 1st Ave - North\" height=\"480\" src=\"cameraimages/Boundary1stSNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Road and E 1st Ave - East\" height=\"480\" src=\"cameraimages/Boundary1stWEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Road and E 1st Ave - South\" height=\"480\" src=\"cameraimages/Boundary1stSSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Road and E 1st Ave - West\" height=\"480\" src=\"cameraimages/Boundary1stWWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundary22.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and E 22nd Ave - North\" height=\"480\" src=\"cameraimages/Boundary22North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and E 22nd Ave - East\" height=\"480\" src=\"cameraimages/Boundary22East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and E 22nd Ave - South\" height=\"480\" src=\"cameraimages/Boundary22South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and E 22nd Ave - West\" height=\"480\" src=\"cameraimages/Boundary22West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundary29.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and E 29th Ave - North\" height=\"480\" src=\"cameraimages/Boundary29North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and E 29th Ave - East\" height=\"480\" src=\"cameraimages/Boundary29East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and E 29th Ave - South\" height=\"480\" src=\"cameraimages/Boundary29South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and E 29th Ave - West\" height=\"480\" src=\"cameraimages/Boundary29West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundary49.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and E 49th Ave - North\" height=\"480\" src=\"cameraimages/Boundary49North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and E 49th Ave - East\" height=\"480\" src=\"cameraimages/Boundary49East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and E 49th Ave - South\" height=\"480\" src=\"cameraimages/Boundary49South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and E 49th Ave - West\" height=\"480\" src=\"cameraimages/Boundary49West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundaryCanadaWay.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Canada Way - North\" height=\"480\" src=\"cameraimages/BoundaryCanadaWayNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Canada Way - East\" height=\"480\" src=\"cameraimages/BoundaryCanadaWayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Canada Way - South\" height=\"480\" src=\"cameraimages/BoundaryCanadaWaySouth.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BoundaryGrandviewHwy.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Grandview Hwy - North\" height=\"480\" src=\"cameraimages/BoundaryNorth_GrandviewHwy.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Grandview Hwy - East\" height=\"480\" src=\"cameraimages/GrandviewHwyEast_Boundary.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Grandview Hwy - South\" height=\"480\" src=\"cameraimages/BoundarySouth_GrandviewHwy.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and Grandview Hwy - West\" height=\"480\" src=\"cameraimages/GrandviewHwyWest_Boundary.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundaryHenning.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Henning Dr - North\" height=\"480\" src=\"cameraimages/BoundaryHenningNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Henning Dr - East\" height=\"480\" src=\"cameraimages/BoundaryHenningEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Henning Dr - South\" height=\"480\" src=\"cameraimages/BoundaryHenningSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and Henning Dr - West\" height=\"480\" src=\"cameraimages/BoundaryHenningWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundaryKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Kingsway - North\" height=\"480\" src=\"cameraimages/BoundaryKingswayNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Kingsway - East\" height=\"480\" src=\"cameraimages/BoundaryKingswayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Kingsway - South\" height=\"480\" src=\"cameraimages/BoundaryKingswaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and Kingsway - West\" height=\"480\" src=\"cameraimages/BoundaryKingswayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundaryLougheed.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Lougheed Hwy - North\" height=\"480\" src=\"cameraimages/BoundaryLougheedSouthNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Lougheed Hwy - East\" height=\"480\" src=\"cameraimages/BoundaryLougheedWestEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Lougheed Hwy - South\" height=\"480\" src=\"cameraimages/BoundaryLougheedWestSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and Lougheed Hwy - West\" height=\"480\" src=\"cameraimages/BoundaryLougheedWestWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/boundaryVanness.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and Vanness Ave - North\" height=\"480\" src=\"cameraimages/BoundaryVannessNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and Vanness Ave - East\" height=\"480\" src=\"cameraimages/BoundaryVannessEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and Vanness Ave - South\" height=\"480\" src=\"cameraimages/BoundaryVannessSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and Vanness Ave - West\" height=\"480\" src=\"cameraimages/BoundaryVannessWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/broadwayGranville.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W Broadway Ave - North\" height=\"202\" src=\"cameraimages/GranvilleBroadnorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W Broadway Ave - East\" height=\"205\" src=\"cameraimages/GranvilleBroadeast.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W Broadway Ave - South\" height=\"202\" src=\"cameraimages/GranvilleBroadsouth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W Broadway Ave - West\" height=\"205\" src=\"cameraimages/GranvilleBroadwest.jpg\" width=\"300\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrard12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and W 12th Ave - North\" height=\"480\" src=\"cameraimages/Burrard12North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and W 12th Ave - East\" height=\"480\" src=\"cameraimages/Burrard12East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and W 12th Ave - South\" height=\"480\" src=\"cameraimages/Burrard12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and W 12th Ave - West\" height=\"480\" src=\"cameraimages/Burrard12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrard4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and W 4th Ave - North\" height=\"480\" src=\"cameraimages/Burrard4thNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and W 4th Ave - East\" height=\"480\" src=\"cameraimages/Burrard4thEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and W 4th Ave - South\" height=\"480\" src=\"cameraimages/Burrard4thSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and W 4th Ave - West\" height=\"480\" src=\"cameraimages/Burrard4thWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BurrardBridge.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard Street Bridge mid span - North\" height=\"480\" src=\"cameraimages/BurrardBridgeMidSpanNorthNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard Street Bridge mid span - South\" height=\"480\" src=\"cameraimages/BurrardBridgeMidspanSouthSouth.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BurrardCanadaPlace.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and Canada Place - North\" height=\"480\" src=\"cameraimages/BurrardCanadaNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and Canada Place - East\" height=\"480\" src=\"cameraimages/BurrardCanadaEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and Canada Place - South\" height=\"480\" src=\"cameraimages/BurrardCanadaSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and Canada Place - West\" height=\"480\" src=\"cameraimages/BurrardCanadaWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BurrardCornwall4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard Bridge - North\" height=\"202\" src=\"cameraimages/BurrardBridgeNorth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West Approach</strong></p>\n<img alt=\"Burrard Bridge - West approach\" height=\"202\" src=\"cameraimages/BurrardCornwallWestApproach.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard Bridge - South\" height=\"202\" src=\"cameraimages/BurrardCornwallSouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West Exit</strong></p>\n<img alt=\"Burrard Bridge - West exit\" height=\"202\" src=\"cameraimages/BurrardCornwallWestExit.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrardDavie.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard Street and Davie Street - North\" height=\"480\" src=\"cameraimages/BurrardDavieNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard Street and Davie Street - East\" height=\"480\" src=\"cameraimages/BurrardDavieEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard Street and Davie Street - South\" height=\"480\" src=\"cameraimages/BurrardDavieSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard Street and Davie Street - West\" height=\"480\" src=\"cameraimages/BurrardDavieWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrardDrake.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and Drake St - North\" height=\"480\" src=\"cameraimages/BurrardDrakeNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and Drake St - East\" height=\"480\" src=\"cameraimages/BurrardDrakeEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and Drake St - South\" height=\"480\" src=\"cameraimages/BurrardDrakeSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and Drake St - West\" height=\"480\" src=\"cameraimages/BurrardDrakeWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrardnelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and Nelson St - North\" height=\"480\" src=\"cameraimages/BurrardNelsonNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and Nelson St - East\" height=\"480\" src=\"cameraimages/BurrardNelsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and Nelson St - South\" height=\"480\" src=\"cameraimages/BurrardNelsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and Nelson St - West\" height=\"480\" src=\"cameraimages/BurrardNelsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/BurrardPacific4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and Pacific Ave - North\" height=\"202\" src=\"cameraimages/BurrardPacificNorth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and Pacific Ave - East\" height=\"202\" src=\"cameraimages/BurrardPacificEast.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and Pacific Ave - South\" height=\"202\" src=\"cameraimages/BurrardBridgeSouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and Pacific Ave - West\" height=\"202\" src=\"cameraimages/BurrardPacificWest.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/burrardSmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Burrard St and Smithe St - North\" height=\"480\" src=\"cameraimages/BurrardSmitheNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Burrard St and Smithe St - East\" height=\"480\" src=\"cameraimages/BurrardSmitheEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Burrard St and Smithe St - South\" height=\"480\" src=\"cameraimages/BurrardSmitheSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Burrard St and Smithe St - West\" height=\"480\" src=\"cameraimages/BurrardSmitheWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/buteDavie.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Bute St and Davie St - North\" height=\"480\" src=\"cameraimages/ButeNorthDavie.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Bute St and Davie St - East\" height=\"480\" src=\"cameraimages/DavieEastBute.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Bute St and Davie St - South\" height=\"480\" src=\"cameraimages/ButeSouthDavie.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Bute St and Davie St - West\" height=\"480\" src=\"cameraimages/DavieWestBute.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 12th Ave - North\" height=\"480\" src=\"cameraimages/Cambie12North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 12th Ave - East\" height=\"480\" src=\"cameraimages/Cambie12East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 12th Ave - South\" height=\"480\" src=\"cameraimages/Cambie12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 12th Ave - West\" height=\"480\" src=\"cameraimages/Cambie12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie16th.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 16th Ave - North\" height=\"480\" src=\"cameraimages/Cambie16North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 16th Ave - East\" height=\"480\" src=\"cameraimages/Cambie16East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 16th Ave - South\" height=\"480\" src=\"cameraimages/Cambie16South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 16th Ave - West\" height=\"480\" src=\"cameraimages/Cambie16West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie25.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W King Edward Ave - North\" height=\"480\" src=\"cameraimages/CambieNorth_King_Edward.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W King Edward Ave - East\" height=\"480\" src=\"cameraimages/King_EdwardEast_Cambie.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W King Edward Ave - South\" height=\"480\" src=\"cameraimages/CambieSouth_King_Edward.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W King Edward Ave - West\" height=\"480\" src=\"cameraimages/King_EdwardWest_Cambie.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie29.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 29 Ave - North\" height=\"480\" src=\"cameraimages/Cambie29North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 29 Ave - East\" height=\"480\" src=\"cameraimages/Cambie29East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 29 Ave - South\" height=\"480\" src=\"cameraimages/Cambie29South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 29 Ave - West\" height=\"480\" src=\"cameraimages/Cambie29West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie2East.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - East intersection - North\" height=\"480\" src=\"cameraimages/Cambie02EastNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - East intersection - East\" height=\"480\" src=\"cameraimages/Cambie02EastEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - East intersection - South\" height=\"480\" src=\"cameraimages/Cambie02EastSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - East intersection - West\" height=\"480\" src=\"cameraimages/Cambie02EastWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie2West.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - West intersection - North\" height=\"480\" src=\"cameraimages/Cambie02WestNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - West intersection - East\" height=\"480\" src=\"cameraimages/Cambie02WestEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - West intersection - South\" height=\"480\" src=\"cameraimages/Cambie02WestSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 2nd Ave - West intersection - West\" height=\"480\" src=\"cameraimages/Cambie02WestWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie33.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 33rd Ave - North\" height=\"480\" src=\"cameraimages/Cambie33North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 33rd Ave - East\" height=\"480\" src=\"cameraimages/Cambie33East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 33rd Ave - South\" height=\"480\" src=\"cameraimages/Cambie33South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 33rd Ave - West\" height=\"480\" src=\"cameraimages/Cambie33West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie37.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 37th Ave - North\" height=\"480\" src=\"cameraimages/Cambie37North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 37th Ave - East\" height=\"480\" src=\"cameraimages/Cambie37East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 37th Ave - South\" height=\"480\" src=\"cameraimages/Cambie37South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 37th Ave - West\" height=\"480\" src=\"cameraimages/Cambie37West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 41st Ave - North\" height=\"480\" src=\"cameraimages/CambieNorth_41.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 41st Ave - East\" height=\"480\" src=\"cameraimages/41East_Cambie.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 41st Ave - South\" height=\"480\" src=\"cameraimages/CambieSouth_41.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 41st Ave - West\" height=\"480\" src=\"cameraimages/41West_Cambie.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambie49.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W 49th Ave - North\" height=\"480\" src=\"cameraimages/CambieNorth_49.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W 49th Ave - East\" height=\"480\" src=\"cameraimages/49East_Cambie.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W 49th Ave - South\" height=\"480\" src=\"cameraimages/CambieSouth_49.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W 49th Ave - West\" height=\"480\" src=\"cameraimages/49West_Cambie.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambiebridge.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie Bridge - North\" height=\"480\" src=\"cameraimages/CambieBridgeNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie Bridge - South\" height=\"480\" src=\"cameraimages/CambieBridgeSouth.jpg\" width=\"720\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambieBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and W Broadway - North\" height=\"480\" src=\"cameraimages/CambieNorth_Broadway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and W Broadway - East\" height=\"480\" src=\"cameraimages/BroadwayEast_Cambie.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and W Broadway - South\" height=\"480\" src=\"cameraimages/CambieSouth_Broadway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and W Broadway - West\" height=\"480\" src=\"cameraimages/BroadwayWest_Cambie.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/CambieMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and SW Marine Dr - North\" height=\"480\" src=\"cameraimages/CambieMarineNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and SW Marine Dr - East\" height=\"480\" src=\"cameraimages/CambieMarineEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and SW Marine Dr - West\" height=\"480\" src=\"cameraimages/CambieMarineWest.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and SW Marine Dr - South \" height=\"480\" src=\"cameraimages/CambieMarineSouth.jpg\" width=\"720\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/cambieNelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cambie St and Nelson St - North\" height=\"202\" src=\"cameraimages/Cambienorth_nelson.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cambie St and Nelson St - East\" height=\"202\" src=\"cameraimages/Nelsoneast_cambie.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cambie St and Nelson St - South\" height=\"202\" src=\"cameraimages/Cambiesouth_nelson.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cambie St and Nelson St - West\" height=\"202\" src=\"cameraimages/Nelsonwest_cambie.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/campbellHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Campbell Ave and Hastings St - North\" height=\"480\" src=\"cameraimages/CampbellHastingsNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Campbell Ave and Hastings St - East\" height=\"480\" src=\"cameraimages/CampbellHastingsEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Campbell Ave and Hastings St - South\" height=\"480\" src=\"cameraimages/CampbellHastingsSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Campbell Ave and Hastings St - West\" height=\"480\" src=\"cameraimages/CampbellHastingsWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/carnarvon41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Carnarvon St and W 41st Ave - North\" height=\"480\" src=\"cameraimages/Carnarvon41North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Carnarvon St and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Carnarvon41East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Carnarvon St and W 41st Ave - South\" height=\"480\" src=\"cameraimages/Carnarvon41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Carnarvon St and W 41st Ave - West\" height=\"480\" src=\"cameraimages/Carnarvon41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/carolinaGreatNorthern.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Carolina St and Great Northern Way - North\" height=\"480\" src=\"cameraimages/CarolinaGrtNorthernNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Carolina St and Great Northern Way - East\" height=\"480\" src=\"cameraimages/CarolinaGrtNorthernEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Carolina St and Great Northern Way - West\" height=\"480\" src=\"cameraimages/CarolinaGrtNorthernWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cassiarHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cassiar Connector and E Hastings St - North\" height=\"205\" src=\"cameraimages/Cassiarnorth_hastings.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cassiar Connector and E Hastings St - East\" height=\"205\" src=\"cameraimages/Hastingseast_cassiar.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cassiar Connector and E Hastings St - South\" height=\"205\" src=\"cameraimages/Cassiarsouth_hastings.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cassiar Connector and E Hastings St - West \" height=\"205\" src=\"cameraimages/Hastingswest_cassiar.jpg\" width=\"300\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/clark12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Clark Dr and E 12th Ave - North\" height=\"480\" src=\"cameraimages/clark12north.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Clark Dr and E 12th Ave - East\" height=\"480\" src=\"cameraimages/clark12east.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Clark Dr and E 12th Ave - South\" height=\"480\" src=\"cameraimages/clark12south.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Clark Dr and E 12th Ave - West\" height=\"480\" src=\"cameraimages/clark12west.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/clark4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Clark Drive\" height=\"205\" src=\"cameraimages/clark1north.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Clark Drive\" height=\"205\" src=\"cameraimages/clark1east.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Clark Drive\" height=\"205\" src=\"cameraimages/clark1south.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Clark Drive\" height=\"205\" src=\"cameraimages/clark1west.jpg\" width=\"300\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/clarkBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Clark Dr and E Broadway - North\" height=\"480\" src=\"cameraimages/ClarkBroadwayNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Clark Dr and E Broadway - East\" height=\"480\" src=\"cameraimages/ClarkBroadwayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Clark Dr and E Broadway - South\" height=\"480\" src=\"cameraimages/ClarkBroadwaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Clark Dr and E Broadway - West\" height=\"480\" src=\"cameraimages/ClarkBroadwayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/ClarkHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Clark Dr and E Hastings St - North\" height=\"480\" src=\"cameraimages/ClarkNorth_EHastings.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Clark Dr and E Hastings St - East\" height=\"480\" src=\"cameraimages/EHastingsEast_Clark.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Clark Dr and E Hastings St - South\" height=\"480\" src=\"cameraimages/ClarkSouth_EHastings.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Clark Dr and E Hastings St - West\" height=\"480\" src=\"cameraimages/EHastingsWest_Clark.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/ClarkPowell.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Clark Dr and Powell St - North\" height=\"480\" src=\"cameraimages/ClarkNorth_Powell.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Clark Dr and Powell St - East\" height=\"480\" src=\"cameraimages/PowellEast_Clark.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Clark Dr and Powell St - South\" height=\"480\" src=\"cameraimages/ClarkSouth_Powell.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Clark Dr and Powell St - West\" height=\"480\" src=\"cameraimages/PowellWest_Clark.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/collectorsBridgeway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Collectors and Bridgeway St - North\" height=\"480\" src=\"cameraimages/CollectorsBridgewayNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Collectors and Bridgeway St - East\" height=\"480\" src=\"cameraimages/CollectorsBridgewayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Collectors and Bridgeway St - South\" height=\"480\" src=\"cameraimages/CollectorsBridgewaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Collectors and Bridgeway St - West\" height=\"480\" src=\"cameraimages/CollectorsBridgewayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/Commercial01.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Commercial Dr and E 1st Ave - North\" height=\"480\" src=\"cameraimages/Commercial1north.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Commercial Dr and E 1st Ave- East\" height=\"480\" src=\"cameraimages/Commercial1east.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Commercial Dr and E 1st Ave - South\" height=\"480\" src=\"cameraimages/Commercial1south.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West </strong></p>\n<img alt=\"Commercial Dr and E 1st Ave - West\" height=\"480\" src=\"cameraimages/Commercial1west.jpg\" width=\"720\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/commercialBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Commercial Dr and E Broadway - North\" height=\"480\" src=\"cameraimages/CommercialBroadwaynorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Commercial Dr and E Broadway - East\" height=\"480\" src=\"cameraimages/CommercialBroadwayeast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Commercial Dr and E Broadway - South\" height=\"480\" src=\"cameraimages/CommercialBroadwaysouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Commercial Dr and E Broadway - West\" height=\"480\" src=\"cameraimages/CommercialBroadwaywest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/cornishSWMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Cornish St and SW Marine Dr - North\" height=\"480\" src=\"cameraimages/CornishSWMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Cornish St and SW Marine Dr - East\" height=\"480\" src=\"cameraimages/CornishSWMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Cornish St and SW Marine Dr - South\" height=\"480\" src=\"cameraimages/CornishSWMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Cornish St and SW Marine Dr - West\" height=\"480\" src=\"cameraimages/CornishSWMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/denman3.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"W Georgia St and Denman St - East\" height=\"202\" src=\"cameraimages/GeorgiaDenmanEast.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"W Georgia St and Denman St - West\" height=\"202\" src=\"cameraimages/GeorgiaDenmanWest.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"W Georgia St and Denman St - South\" height=\"202\" src=\"cameraimages/DenmanGeorgiaSouth.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/denmanBeach.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Denman St and Beach Ave - East\" height=\"480\" src=\"cameraimages/DenmanBeachEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Denman St and Beach Ave - West\" height=\"480\" src=\"cameraimages/DenmanBeachWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/denmanDavie.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Denman St and Davie St - North\" height=\"480\" src=\"cameraimages/DenmanDavieNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Denman St and Davie St - East\" height=\"480\" src=\"cameraimages/DenmanDavieEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Denman St and Davie St - South\" height=\"480\" src=\"cameraimages/DenmanDavieSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Denman St and Davie St - West\" height=\"480\" src=\"cameraimages/DenmanDavieWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/dunbar41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Dunbar St and W 41st Ave - North\" height=\"480\" src=\"cameraimages/Dunbar41North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Dunbar St and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Dunbar41East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Dunbar St and W 41st Ave - South\" height=\"202\" src=\"cameraimages/Dunbar41South.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Dunbar St and W 41st Ave - West\" height=\"202\" src=\"cameraimages/Dunbar41West.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/EarlesKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Earles St and Kingsway - North\" height=\"480\" src=\"cameraimages/EarlesNorth_Kingsway.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Earles St and Kingsway - East\" height=\"480\" src=\"cameraimages/KingswayEast_Earles.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Earles St and Kingsway - South\" height=\"480\" src=\"cameraimages/EarlesSouth_Kingsway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Earles St and Kingsway - West\" height=\"480\" src=\"cameraimages/KingswayWest_Earles.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/expoSmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Expo Blvd and Smithe St - North\" height=\"202\" src=\"cameraimages/Expoblvdnorth_smithe.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Expo Blvd and Smithe St - East\" height=\"202\" src=\"cameraimages/SmitheEast_ExpoBlvd.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Expo Blvd and Smithe St - South\" height=\"202\" src=\"cameraimages/Expoblvdsouth_smithe.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Expo Blvd and Smithe St - West\" height=\"202\" src=\"cameraimages/SmitheWest_ExpoBlvd.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/frasermarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Fraser St and Marine Dr - North\" height=\"480\" src=\"cameraimages/FraserMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Fraser St and Marine Dr - East\" height=\"480\" src=\"cameraimages/FraserMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Fraser St and Marine Dr - South\" height=\"480\" src=\"cameraimages/FraserMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Fraser St and Marine Dr - West\" height=\"480\" src=\"cameraimages/FraserMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/georgia3.htm": [
+        "<div class=\"camera\">\n<p><strong>Georgia St east</strong></p>\n<img alt=\"Georgia St - East\" height=\"202\" src=\"cameraimages/georgiaE.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>Georgia St west</strong></p>\n<img alt=\"Georgia St - West\" height=\"202\" src=\"cameraimages/georgiaW.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>Pender St east</strong></p>\n<img alt=\"Pender St - East\" height=\"202\" src=\"cameraimages/PenderEast.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/gladstoneKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Gladstone St midblock east of Kingsway - East\" height=\"480\" src=\"cameraimages/GladstoneMBEEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Gladstone St midblock east of Kingsway - South\" height=\"480\" src=\"cameraimages/GladstoneMBESouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Gladstone St midblock east of Kingsway - West\" height=\"480\" src=\"cameraimages/GladstoneMBEWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/glenPowell.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Glen Dr and Powell St - East\" height=\"480\" src=\"cameraimages/PowellEastGlen.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Glen Dr and Powell St - West\" height=\"480\" src=\"cameraimages/PowellWestGlen.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/grandview4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Grandview Hwy and Rupert St - North\" height=\"202\" src=\"cameraimages/GrandviewRupertnorth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Grandview Hwy and Rupert St - East\" height=\"202\" src=\"cameraimages/GrandviewRuperteast.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Grandview Hwy and Rupert St - South\" height=\"202\" src=\"cameraimages/GrandviewRupertsouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Grandview Hwy and Rupert St - West\" height=\"202\" src=\"cameraimages/GrandviewRupertwest.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granville12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W 12th Ave - North\" height=\"480\" src=\"cameraimages/Granville12SouthNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W 12th Ave - East\" height=\"480\" src=\"cameraimages/Granville12EastEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W 12th Ave - South\" height=\"480\" src=\"cameraimages/Granville12SouthSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W 12th Ave - West\" height=\"480\" src=\"cameraimages/Granville12EastWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granville16.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W 16th Ave - North\" height=\"480\" src=\"cameraimages/Granville16North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W 16th Ave - East\" height=\"480\" src=\"cameraimages/Granville16East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W 16th Ave - South\" height=\"480\" src=\"cameraimages/Granville16South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W 16th Ave - West\" height=\"480\" src=\"cameraimages/Granville16West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granville41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W 41st Ave - North\" height=\"480\" src=\"cameraimages/Granville41North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Granville41East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W 41st Ave - South\" height=\"480\" src=\"cameraimages/Granville41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W 41st Ave - West\" height=\"480\" src=\"cameraimages/Granville41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granville70th.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W 70th Ave - North\" height=\"202\" src=\"cameraimages/Granville70north.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W 70th Ave - East\" height=\"202\" src=\"cameraimages/Granville70east.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W 70th Ave - South\" height=\"202\" src=\"cameraimages/Granville70south.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W 70th Ave - West\" height=\"202\" src=\"cameraimages/Granville70west.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/GranvilleDunsmuir.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and Dunsmuir St - North\" height=\"480\" src=\"cameraimages/GranvilleNorth_Dunsmuir.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and Dunsmuir St - East\" height=\"480\" src=\"cameraimages/DunsmuirEast_Granville.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and Dunsmuir St - South\" height=\"480\" src=\"cameraimages/GranvilleSouth_Dunsmuir.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and Dunsmuir St - West\" height=\"480\" src=\"cameraimages/DunsmuirWest_Granville.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granvilleGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and E Georgia St - North\" height=\"480\" src=\"cameraimages/GranvilleNorth_Georgia.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and E Georgia St - East\" height=\"480\" src=\"cameraimages/GeorgiaEast_Granville.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and E Georgia St - South\" height=\"202\" src=\"cameraimages/GranvilleSouth_Georgia.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and E Georgia St - West\" height=\"202\" src=\"cameraimages/GeorgiaWest_Granville.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granvillehastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and W Hastings St - North\" height=\"480\" src=\"cameraimages/GranvilleHastingsNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and W Hastings St - East\" height=\"480\" src=\"cameraimages/GranvilleHastingsEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and W Hastings St - South\" height=\"202\" src=\"cameraimages/GranvilleHastingsSouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and W Hastings St - West\" height=\"202\" src=\"cameraimages/GranvilleHastingsWest.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granvilleNelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and Nelson St - North\" height=\"480\" src=\"cameraimages/GranvilleNorth_Nelson_South.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and Nelson St - East\" height=\"480\" src=\"cameraimages/NelsonEast_Granville_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and Nelson St - South\" height=\"480\" src=\"cameraimages/GranvilleSouth_Nelson_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and Nelson St - West\" height=\"480\" src=\"cameraimages/NelsonWest_Granville.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granvillerobson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and Robson St - North\" height=\"480\" src=\"cameraimages/GranvilleRobsonSouthNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and Robson St - East\" height=\"480\" src=\"cameraimages/GranvilleRobsonWestEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and Robson St - South\" height=\"480\" src=\"cameraimages/GranvilleRobsonSouthSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and Robson St - West\" height=\"480\" src=\"cameraimages/GranvilleRobsonWestWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/granvilleSmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Granville St and Smithe St - North\" height=\"480\" src=\"cameraimages/GranvilleSmitheNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Granville St and Smithe St - East\" height=\"480\" src=\"cameraimages/GranvilleSmitheEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Granville St and Smithe St - South\" height=\"480\" src=\"cameraimages/GranvilleSmitheSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Granville St and Smithe St - West\" height=\"480\" src=\"cameraimages/GranvilleSmitheWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/greenway12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Greenway and 12th - North\" height=\"480\" src=\"cameraimages/Greenway12North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Greenway and 12th - East\" height=\"480\" src=\"cameraimages/Greenway12East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Greenway and 12th - South\" height=\"480\" src=\"cameraimages/Greenway12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Greenway and 12th - West\" height=\"480\" src=\"cameraimages/Greenway12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Boundary Rd and E Hastings St - North\" height=\"480\" src=\"cameraimages/BoundaryNorth_Hastings.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Boundary Rd and E Hastings St - East\" height=\"480\" src=\"cameraimages/Hastingseast_boundary.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Boundary Rd and E Hastings St - South\" height=\"480\" src=\"cameraimages/BoundarySouth_Hastings.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Boundary Rd and E Hastings St - West\" height=\"480\" src=\"cameraimages/HastingsWest_Boundary.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hornbyDrake.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and Drake St - North\" height=\"480\" src=\"cameraimages/HornbyDrakeNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and Drake St - East\" height=\"480\" src=\"cameraimages/HornbyDrakeEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and Drake St - South\" height=\"480\" src=\"cameraimages/HornbyDrakeSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and Drake St - West\" height=\"480\" src=\"cameraimages/HornbyDrakeWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hornbyGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and E Georgia St - North\" height=\"480\" src=\"cameraimages/HornbyNorth_Georgia.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and E Georgia St - East\" height=\"480\" src=\"cameraimages/GeorgiaEast_Hornby.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and E Georgia St - South\" height=\"480\" src=\"cameraimages/HornbySouth_Georgia.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and E Georgia St - West\" height=\"480\" src=\"cameraimages/GeorgiaWest_Hornby.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hornbyNelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and Nelson St - North\" height=\"480\" src=\"cameraimages/HornbyNelsonNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and Nelson St - East\" height=\"480\" src=\"cameraimages/HornbyNelsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and Nelson St - South\" height=\"480\" src=\"cameraimages/HornbyNelsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and Nelson St - West\" height=\"480\" src=\"cameraimages/HornbyNelsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hornbyPacific.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and Pacific St - North\" height=\"480\" src=\"cameraimages/HornbyNorth_Pacific.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and Pacific St - East\" height=\"480\" src=\"cameraimages/PacificEast_Hornby.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and Pacific St - South\" height=\"480\" src=\"cameraimages/HornbySouth_Pacific.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and Pacific St - West\" height=\"480\" src=\"cameraimages/PacificWest_Hornby.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/HornbyRobson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and Robson St - North\" height=\"480\" src=\"cameraimages/HornbyNorth_Robson.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and Robson St - East\" height=\"480\" src=\"cameraimages/RobsonEast_Hornby.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and Robson St - South\" height=\"202\" src=\"cameraimages/HornbySouth_Robson.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and Robson St - West\" height=\"202\" src=\"cameraimages/RobsonWest_Hornby.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/hornbySmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Hornby St and Smithe St - North\" height=\"480\" src=\"cameraimages/HornbySmitheNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Hornby St and Smithe St - East\" height=\"480\" src=\"cameraimages/HornbySmitheEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Hornby St and Smithe St - South\" height=\"480\" src=\"cameraimages/HornbySmitheSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Hornby St and Smithe St - West\" height=\"480\" src=\"cameraimages/HornbySmitheWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/howeDrake.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Howe St and Drake St - North\" height=\"480\" src=\"cameraimages/HoweDrakeNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Howe St and Drake St - East\" height=\"480\" src=\"cameraimages/HoweDrakeEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Howe St and Drake St - South\" height=\"480\" src=\"cameraimages/HoweDrakeSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Howe St and Drake St - West\" height=\"480\" src=\"cameraimages/HoweDrakeWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/howeGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Howe St and E Georgia St - North\" height=\"480\" src=\"cameraimages/HoweNorthGeorgia.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Howe St and E Georgia St - East\" height=\"480\" src=\"cameraimages/GeorgiaEastHowe.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Howe St and E Georgia St - South\" height=\"480\" src=\"cameraimages/HoweSouthGeorgia.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Howe St and E Georgia St - West\" height=\"480\" src=\"cameraimages/GeorgiaWestHowe.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/howePacific.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Howe St and Pacific St - North\" height=\"480\" src=\"cameraimages/HowePacificNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Howe St and Pacific St - East\" height=\"480\" src=\"cameraimages/HowePacificEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Howe St and Pacific St - South\" height=\"480\" src=\"cameraimages/HowePacificSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Howe St and Pacific St - West\" height=\"480\" src=\"cameraimages/HowePacificWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/joyceKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Joyce St and Kingsway - North\" height=\"480\" src=\"cameraimages/JoyceNorthKingsway.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Joyce St and Kingsway - East\" height=\"480\" src=\"cameraimages/KingswayEastJoyce.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Joyce St and Kingsway - South\" height=\"480\" src=\"cameraimages/JoyceSouthKingsway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Joyce St and Kingsway - West\" height=\"480\" src=\"cameraimages/KingswayWestJoyce.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/joyceVanness.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Joyce St and Vanness Ave - North\" height=\"480\" src=\"cameraimages/JoyceVannessSouthNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South East</strong></p>\n<img alt=\"Joyce St and Vanness Ave - South East\" height=\"480\" src=\"cameraimages/JoyceVannessSouthEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Joyce St and Vanness Ave - South\" height=\"480\" src=\"cameraimages/JoyceVannessSouthSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South West</strong></p>\n<img alt=\"Joyce St and Vanness Ave - South West\" height=\"480\" src=\"cameraimages/JoyceVannessSouthWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/kerr54.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Kerr St and E. 54th Ave - North\" height=\"480\" src=\"cameraimages/Kerr54North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kerr St and E. 54th Ave - East\" height=\"480\" src=\"cameraimages/Kerr54East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kerr St and E. 54th Ave - South\" height=\"480\" src=\"cameraimages/Kerr54South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kerr St and E. 54th Ave - West\" height=\"480\" src=\"cameraimages/Kerr54West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/kerrMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Kerr St and SE Marine Dr - North\" height=\"480\" src=\"cameraimages/KerrMarine_North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kerr St and SE Marine Dr - East\" height=\"480\" src=\"cameraimages/KerrMarine_East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kerr St and SE Marine Dr - South\" height=\"480\" src=\"cameraimages/KerrMarine_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kerr St and SE Marine Dr - West\" height=\"480\" src=\"cameraimages/KerrMarine_West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/kingsway10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Kingsway and East 10th Ave - North\" height=\"480\" src=\"cameraimages/Kingsway10North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kingsway and East 10th Ave - East\" height=\"480\" src=\"cameraimages/Kingsway10East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kingsway and East 10th Ave - South\" height=\"480\" src=\"cameraimages/Kingsway10South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kingsway and East 10th Ave - West\" height=\"480\" src=\"cameraimages/Kingsway10West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/kingsway11.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Kingsway and E 11th Ave - North\" height=\"480\" src=\"cameraimages/Kingsway11_North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kingsway and E 11th Ave - East\" height=\"480\" src=\"cameraimages/Kingsway11_East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kingsway and E 11th Ave - South\" height=\"480\" src=\"cameraimages/Kingsway11_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kingsway and E 11th Ave - West\" height=\"480\" src=\"cameraimages/Kingsway11_West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/kingswayBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Kingsway and E Broadway - North\" height=\"202\" src=\"cameraimages/KingswayBroadwayNorthNorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kingsway and E Broadway - East\" height=\"205\" src=\"cameraimages/KingswayBroadwayWestEast.jpg\" width=\"300\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kingsway and E Broadway - South\" height=\"202\" src=\"cameraimages/KingswayBroadwayNorthSouth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kingsway and E Broadway - West\" height=\"205\" src=\"cameraimages/KingswayBroadwayWestWest.jpg\" width=\"300\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/kinrossMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Kinross St and Marine Way - East\" height=\"480\" src=\"cameraimages/KinrossMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Kinross St and Marine Way - South\" height=\"480\" src=\"cameraimages/KinrossMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Kinross St and Marine Way - West\" height=\"480\" src=\"cameraimages/KinrossMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knight.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St and E 41st Ave - North\" height=\"202\" src=\"cameraimages/KnightNorth_E41.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St and E 41st Ave - East\" height=\"202\" src=\"cameraimages/E41East_Knight.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St and E 41st Ave - South\" height=\"202\" src=\"cameraimages/KnightSouth_E41.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St and E 41st Ave - West\" height=\"202\" src=\"cameraimages/E41West_Knight.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knight49.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St and E 49th Ave - North\" height=\"480\" src=\"cameraimages/Knight49North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St and E 49th Ave - East\" height=\"480\" src=\"cameraimages/Knight49East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St and E 49th Ave - South\" height=\"480\" src=\"cameraimages/Knight49South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St and E 49th Ave - West\" height=\"480\" src=\"cameraimages/Knight49West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knight57.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St and E 57th Ave - North\" height=\"480\" src=\"cameraimages/KnightNorth_E57.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St and E 57th Ave - East\" height=\"480\" src=\"cameraimages/E57East_Knight.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St and E 57th Ave - South\" height=\"480\" src=\"cameraimages/KnightSouth_E57.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St and E 57th Ave - West\" height=\"480\" src=\"cameraimages/E57West_Knight.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knightKingEdward.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St and E King Edward Ave - North\" height=\"480\" src=\"cameraimages/KnightNorthKingEdward.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St and E King Edward Ave - East\" height=\"480\" src=\"cameraimages/KingEdwardEastKnight.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St and E King Edward Ave - South\" height=\"480\" src=\"cameraimages/KnightSouthKingEdward.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St and E King Edward Ave - West\" height=\"480\" src=\"cameraimages/KingEdwardWestKnight.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knightKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St and Kingsway - North\" height=\"480\" src=\"cameraimages/KnightNorthKingsway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St and Kingsway - East\" height=\"480\" src=\"cameraimages/KingswayEastKnight.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St and Kingsway - South\" height=\"480\" src=\"cameraimages/KnightSouthKingsway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St and Kingsway - West\" height=\"480\" src=\"cameraimages/KingswayWestKnight.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/knightMarineBridge.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Knight St Bridge and SE Marine Dr - North\" height=\"480\" src=\"cameraimages/KnightBridgeNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Knight St Bridge and SE Marine Dr - East\" height=\"480\" src=\"cameraimages/MarineEastKnight_East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Knight St Bridge and SE Marine Dr - South\" height=\"480\" src=\"cameraimages/KnightBridgeSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Knight St Bridge and SE Marine Dr - West\" height=\"480\" src=\"cameraimages/KnightMarineW_West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/macdonald16.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Macdonald St and W 16th Ave - North\" height=\"480\" src=\"cameraimages/Macdonald16North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Macdonald St and W 16th Ave - East\" height=\"480\" src=\"cameraimages/Macdonald16East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Macdonald St and W 16th Ave - South\" height=\"480\" src=\"cameraimages/Macdonald16South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Macdonald St and W 16th Ave - West\" height=\"480\" src=\"cameraimages/Macdonald16West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/macdonald4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Macdonald St and W 4th Ave - North\" height=\"480\" src=\"cameraimages/Macdonald04North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Macdonald St and W 4th Ave - East\" height=\"480\" src=\"cameraimages/Macdonald04East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Macdonald St and W 4th Ave - South\" height=\"480\" src=\"cameraimages/Macdonald04South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Macdonald St and W 4th Ave - West\" height=\"480\" src=\"cameraimages/Macdonald04West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/macdonald8.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Macdonald St and W 8th Ave - North\" height=\"480\" src=\"cameraimages/Macdonald08North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Macdonald St and W 8th Ave - East\" height=\"480\" src=\"cameraimages/Macdonald08East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Macdonald St and W 8th Ave - South\" height=\"480\" src=\"cameraimages/Macdonald08South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Macdonald St and W 8th Ave - West\" height=\"480\" src=\"cameraimages/Macdonald08West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/macdonaldBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Macdonald St. and W. Broadway - North\" height=\"480\" src=\"cameraimages/MacdonaldBroadwayNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Macdonald St. and W. Broadway - East\" height=\"480\" src=\"cameraimages/MacdonaldBroadwayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Macdonald St. and W. Broadway - South\" height=\"480\" src=\"cameraimages/MacdonaldBroadwaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Macdonald St. and W. Broadway - West\" height=\"480\" src=\"cameraimages/MacdonaldBroadwayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/macdonaldKitsDiv.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Macdonald St and Kitsilano Diversion - North\" height=\"480\" src=\"cameraimages/MacdonaldKitsDivNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Macdonald St and Kitsilano Diversion - East\" height=\"480\" src=\"cameraimages/MacdonaldKitsDivEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Macdonald St and Kitsilano Diversion - South\" height=\"480\" src=\"cameraimages/MacdonaldKitsDivSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Macdonald St and Kitsilano Diversion - West\" height=\"480\" src=\"cameraimages/MacdonaldKitsDivWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/Main2.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and E 2nd Ave - North\" height=\"480\" src=\"cameraimages/Main02North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and E 2nd Ave - South\" height=\"480\" src=\"cameraimages/Main02South.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and E 2nd Ave - West\" height=\"480\" src=\"cameraimages/Main02West.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and E 2nd Ave - East \" height=\"480\" src=\"cameraimages/Main02East.jpg\" width=\"720\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/main33.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and E 33rd Ave - North\" height=\"480\" src=\"cameraimages/MainNorth_E33.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and E 33rd Ave - East\" src=\"cameraimages/E33East_Main.jpg\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and E 33rd Ave - South\" height=\"480\" src=\"cameraimages/MainSouth_E33.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and E 33rd Ave - West\" height=\"480\" src=\"cameraimages/E33West_Main.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/mainBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and E Broadway - North\" height=\"480\" src=\"cameraimages/MainBroadwayNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and E Broadway - East\" src=\"cameraimages/MainBroadwayEast.jpg\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and E Broadway - South\" height=\"480\" src=\"cameraimages/MainBroadwaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and E Broadway - West\" height=\"480\" src=\"cameraimages/MainBroadwayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/MainHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and E Hastings St - North\" height=\"480\" src=\"cameraimages/MainNorth_Hastings.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and E Hastings St - East\" height=\"480\" src=\"cameraimages/HastingsEast_Main.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and E Hastings St - South\" height=\"480\" src=\"cameraimages/MainSouth_Hastings.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and E Hastings St - West\" height=\"480\" src=\"cameraimages/HastingsWest_Main.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/mainKingsway7.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and Kingsway - North\" height=\"480\" src=\"cameraimages/MainKingsway7North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and Kingsway - East\" height=\"480\" src=\"cameraimages/MainKingsway7East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South - Main St</strong></p>\n<img alt=\"Main St and Kingsway - South Main\" height=\"480\" src=\"cameraimages/MainKingsway7SouthMain.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and Kingsway - West\" height=\"480\" src=\"cameraimages/MainKingsway7West.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South - Kingsway</strong></p>\n<img alt=\"Main St and Kingsway - South Kingsway\" height=\"480\" src=\"cameraimages/MainKingsway7SouthKingsway.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/mainmarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and Marine Dr - North\" height=\"480\" src=\"cameraimages/MainMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and Marine Dr - East\" src=\"cameraimages/MainMarineEast.jpg\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and Marine Dr - South\" height=\"480\" src=\"cameraimages/MainMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and Marine Dr - West\" height=\"480\" src=\"cameraimages/MainMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/mainTerminal.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Main St and Terminal Ave - North\" height=\"480\" src=\"cameraimages/MainNorth_Terminal_Dome.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Main St and Terminal Ave - North\" height=\"480\" src=\"cameraimages/TerminalEast_Main.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Main St and Terminal Ave - South\" height=\"480\" src=\"cameraimages/MainSouth_Terminal.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Main St and Terminal Ave - West\" height=\"480\" src=\"cameraimages/TerminalWest_Main.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/manitoba2.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Manitoba St and W 2nd Ave - North\" height=\"202\" src=\"cameraimages/Manitoba02North.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Manitoba St and W 2nd Ave - East\" height=\"202\" src=\"cameraimages/Manitoba02East.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Manitoba St and W 2nd Ave - South\" height=\"202\" src=\"cameraimages/Manitoba02South.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Manitoba St and W 2nd Ave - West\" height=\"202\" src=\"cameraimages/Manitoba02West.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/manitobamarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Manitoba St and Marine Dr - North\" height=\"480\" src=\"cameraimages/ManitobaMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Manitoba St and Marine Dr - East\" height=\"480\" src=\"cameraimages/ManitobaMarineEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Manitoba St and Marine Dr - South\" height=\"480\" src=\"cameraimages/ManitobaMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Manitoba St and Marine Dr - West\" height=\"480\" src=\"cameraimages/ManitobaMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/maple41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Maple St and W 41st Ave - North\" height=\"480\" src=\"cameraimages/Maple41North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Maple St and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Maple41East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Maple St and W 41st Ave - South\" height=\"480\" src=\"cameraimages/Maple41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Maple St and W 41st Ave - West\" height=\"480\" src=\"cameraimages/Maple41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/marine41.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"SW Marine Dr and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Marine4141stEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"SW Marine Dr and W 41st Ave - East\" height=\"480\" src=\"cameraimages/Marine41MarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"SW Marine Dr and W 41st Ave - West\" height=\"480\" src=\"cameraimages/Marine41MarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/marine49.htm": [
+        "<div class=\"camera\">\n<p><strong>Northeast</strong></p>\n<img alt=\"SW Marine Dr and W 49th Ave - Northeast\" height=\"480\" src=\"cameraimages/Marine4949th.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Marine &amp; 49th - East\" height=\"480\" src=\"cameraimages/Marine49MarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Marine &amp; 49th - West\" height=\"480\" src=\"cameraimages/Marine49MarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/marine70.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"SW Marine Drive and W 70th Ave - North\" height=\"480\" src=\"cameraimages/Marine70SemiNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"SW Marine Drive and W 70th Ave - East\" height=\"480\" src=\"cameraimages/Marine70SemiEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"SW Marine Drive and W 70th Ave - South\" height=\"480\" src=\"cameraimages/Marine70SemiSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"SW Marine Drive and W 70th Ave - West\" height=\"480\" src=\"cameraimages/Marine70SemiWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/marineMarineWay.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"SE Marine Dr and Marine Way - North\" height=\"480\" src=\"cameraimages/MarineMarineWayNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"SE Marine Dr and Marine Way - East\" height=\"480\" src=\"cameraimages/MarineMarineWayEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"SE Marine Dr and Marine Way - West\" height=\"480\" src=\"cameraimages/MarineMarineWayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/mcleanPowell.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"McLean Dr and Powell St - North\" height=\"480\" src=\"cameraimages/McLeanPowellNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"McLean Dr and Powell St - East\" height=\"480\" src=\"cameraimages/McLeanPowellEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"McLean Dr and Powell St - South\" height=\"480\" src=\"cameraimages/McLeanPowellSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"McLean Dr and Powell St - West\" height=\"480\" src=\"cameraimages/McLeanPowellWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimo1.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and E 1st Ave - North\" height=\"480\" src=\"cameraimages/Nanaimo01North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and E 1st Ave - East\" height=\"480\" src=\"cameraimages/Nanaimo01East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and E 1st Ave - South\" height=\"480\" src=\"cameraimages/Nanaimo01South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Nanaimo St and E 1st Ave - West\" height=\"480\" src=\"cameraimages/Nanaimo01West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimo24.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and E 24th Ave - North\" height=\"480\" src=\"cameraimages/NanaimoNorth24th.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and E 24th Ave - East\" height=\"480\" src=\"cameraimages/E24thEastNanaimo.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and E 24th Ave - South\" height=\"480\" src=\"cameraimages/NanaimoSouth24th.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimobroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and Broadway - North\" height=\"480\" src=\"cameraimages/NanaimoBroadwayNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and Broadway - East\" height=\"480\" src=\"cameraimages/NanaimoBroadwayEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and Broadway - South\" height=\"480\" src=\"cameraimages/NanaimoBroadwaySouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Nanaimo St and Broadway - West\" height=\"480\" src=\"cameraimages/NanaimoBroadwayWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimoDundas.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and Dundas St - North\" height=\"480\" src=\"cameraimages/NanaimoDundasSouthNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and Dundas St - East\" height=\"480\" src=\"cameraimages/NanaimoDundasSouthEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and Dundas St - South\" height=\"480\" src=\"cameraimages/NanaimoDundasSouthSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Nanaimo St and Dundas St - West\" height=\"480\" src=\"cameraimages/NanaimoDundasEastWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimoGrandview.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and Grandview Hwy South - North\" height=\"480\" src=\"cameraimages/NanaimoGrandviewSNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and Grandview Hwy South - East\" height=\"480\" src=\"cameraimages/NanaimoGrandviewSEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and Grandview Hwy South - South\" height=\"480\" src=\"cameraimages/NanaimoGrandviewSSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Nanaimo St and Grandview Hwy South - West\" height=\"480\" src=\"cameraimages/NanaimoGrandviewSWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/nanaimoHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Nanaimo St and E Hastings St - North\" height=\"480\" src=\"cameraimages/NanaimoHastingsNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Nanaimo St and E Hastings St - East\" height=\"480\" src=\"cameraimages/NanaimoHastingsEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Nanaimo St and E Hastings St - South\" height=\"480\" src=\"cameraimages/NanaimoHastingsSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Nanaimo St and E Hastings St - West\" height=\"480\" src=\"cameraimages/NanaimoHastingsWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/oak12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W 12th Ave - North\" height=\"480\" src=\"cameraimages/Oak12North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W 12th Ave - East\" height=\"480\" src=\"cameraimages/Oak12East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W 12th Ave - South\" height=\"480\" src=\"cameraimages/Oak12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W 12th Ave - West\" height=\"480\" src=\"cameraimages/Oak12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/oak33.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W 33rd Ave - North\" height=\"480\" src=\"cameraimages/Oak33North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W 33rd Ave - East\" height=\"480\" src=\"cameraimages/Oak33East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W 33rd Ave - South\" height=\"480\" src=\"cameraimages/Oak33South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W 33rd Ave - West\" height=\"480\" src=\"cameraimages/Oak33West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/oak4.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W 70th Ave - North\" height=\"202\" src=\"cameraimages/Oak70north.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W 70th Ave - East\" height=\"202\" src=\"cameraimages/Oak70EastEast.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W 70th Ave - South\" height=\"202\" src=\"cameraimages/Oakbridge.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W 70th Ave - West\" height=\"202\" src=\"cameraimages/Oak70EastWest.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/oak49.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W 49th Ave - North\" height=\"202\" src=\"cameraimages/oak49north.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W 49th Ave - East\" height=\"202\" src=\"cameraimages/oak49east.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W 49th Ave - South\" height=\"202\" src=\"cameraimages/oak49south.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W 49th Ave - West\" height=\"202\" src=\"cameraimages/oak49west.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/oakW10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W. 10th Ave - North\" height=\"480\" src=\"cameraimages/Oak10North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W. 10th Ave - East\" height=\"480\" src=\"cameraimages/Oak10East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W. 10th Ave - South\" height=\"480\" src=\"cameraimages/Oak10South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W. 10th Ave - West\" height=\"480\" src=\"cameraimages/Oak10West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/oakWBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Oak St and W Broadway - North\" height=\"202\" src=\"cameraimages/OakBroadwayNorth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Oak St and W Broadway - East\" height=\"202\" src=\"cameraimages/OakBroadwayEast.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Oak St and W Broadway - South\" height=\"202\" src=\"cameraimages/OakBroadwaySouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Oak St and W Broadway - West\" height=\"202\" src=\"cameraimages/OakBroadwayWest.jpg\" width=\"303\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/pine12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Pine St and W 12th Ave - North\" height=\"480\" src=\"cameraimages/Pine12North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Pine St and W 12th Ave - East\" height=\"480\" src=\"cameraimages/Pine12East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Pine St and W 12th Ave - South\" height=\"480\" src=\"cameraimages/Pine12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Pine St and W 12th Ave - West\" height=\"480\" src=\"cameraimages/Pine12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/quebec2.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Quebec St and E 2nd Ave - North\" height=\"480\" src=\"cameraimages/Quebec02North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Quebec St and E 2nd Ave - East\" height=\"480\" src=\"cameraimages/Quebec02East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Quebec St and E 2nd Ave - South\" height=\"480\" src=\"cameraimages/Quebec02South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Quebec St and E 2nd Ave - West\" height=\"480\" src=\"cameraimages/Quebec02West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/quebecSwitchmen.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Quebec St and Switchmen St - North\" height=\"480\" src=\"cameraimages/QuebecSwitchmenNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Quebec St and Switchmen St - East\" height=\"480\" src=\"cameraimages/QuebecSwitchmenEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Quebec St and Switchmen St - South\" height=\"480\" src=\"cameraimages/QuebecSwitchmenSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Quebec St and Switchmen St - West\" height=\"480\" src=\"cameraimages/QuebecSwitchmenWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/raymurVenables.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Raymur Ave and Vanables St - North\" height=\"480\" src=\"cameraimages/RaymurVenablesNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Raymur Ave and Vanables St - East\" height=\"480\" src=\"cameraimages/RaymurVenablesEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Raymur Ave and Vanables St - South\" height=\"480\" src=\"cameraimages/RaymurVenablesSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Raymur Ave and Vanables St - West\" height=\"480\" src=\"cameraimages/RaymurVenablesWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrew01st.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and E 1st Ave - North\" height=\"480\" src=\"cameraimages/Renfrew01North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and E 1st Ave - East\" height=\"480\" src=\"cameraimages/Renfrew01East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and E 1st Ave - South\" height=\"480\" src=\"cameraimages/Renfrew01South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and E 1st Ave - West\" height=\"480\" src=\"cameraimages/Renfrew01West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrew22.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and E 22nd Ave - North\" height=\"480\" src=\"cameraimages/Renfrew22North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and E 22nd Ave - East\" height=\"480\" src=\"cameraimages/Renfrew22East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and E 22nd Ave - South\" height=\"480\" src=\"cameraimages/Renfrew22South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and E 22nd Ave - West\" height=\"480\" src=\"cameraimages/Renfrew22West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrewAdanac.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and Adanac St - North\" height=\"480\" src=\"cameraimages/RenfrewAdanacNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and Adanac St - East\" height=\"480\" src=\"cameraimages/RenfrewAdanacEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and Adanac St - South\" height=\"480\" src=\"cameraimages/RenfrewAdanacSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and Adanac St - West\" height=\"480\" src=\"cameraimages/RenfrewAdanacWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrewBroadway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and E Broadway - North\" height=\"480\" src=\"cameraimages/RenfrewNorthBroadway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and E Broadway - East\" height=\"480\" src=\"cameraimages/BroadwayEastRenfrew.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and E Broadway - South\" height=\"480\" src=\"cameraimages/RenfrewSouthBroadway.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and E Broadway - West\" height=\"480\" src=\"cameraimages/BroadwayWestRenfrew.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrewGrandview.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and Grandview Hwy - North\" height=\"202\" src=\"cameraimages/RenfrewGrandviewNorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and Grandview Hwy - East\" height=\"202\" src=\"cameraimages/RenfrewGrandviewEast.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and Grandview Hwy - South\" height=\"202\" src=\"cameraimages/RenfrewGrandviewSouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and Grandview Hwy - West\" height=\"202\" src=\"cameraimages/RenfrewGrandviewWest.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrewHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and E Hastings St - North\" height=\"202\" src=\"cameraimages/Renfrewnorth_hastings.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and E Hastings St - East\" height=\"202\" src=\"cameraimages/Hastingseast_renfrew.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and E Hastings St - South\" height=\"202\" src=\"cameraimages/Renfrewsouth_hastings.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and E Hastings St - West\" height=\"202\" src=\"cameraimages/Hastingswest_renfrew.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/renfrewPandora.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Renfrew St and Pandora St - North\" height=\"480\" src=\"cameraimages/RenfrewPandoraNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Renfrew St and Pandora St - East\" height=\"480\" src=\"cameraimages/RenfrewPandoraEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Renfrew St and Pandora St - South\" height=\"480\" src=\"cameraimages/RenfrewPandoraSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Renfrew St and Pandora St - West\" height=\"480\" src=\"cameraimages/RenfrewPandoraWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsCordovaWater.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Cordova St. / Water St. - North\" height=\"480\" src=\"cameraimages/RichardsCordovaWaterNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Cordova St. / Water St. - East\" height=\"480\" src=\"cameraimages/RichardsCordovaWaterEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Cordova St. / Water St. - South\" height=\"480\" src=\"cameraimages/RichardsCordovaWaterSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Cordova St. / Water St. - West\" height=\"480\" src=\"cameraimages/RichardsCordovaWaterWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsDavie.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Davie St - North\" height=\"480\" src=\"cameraimages/RichardsDavieNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Davie St - East\" height=\"480\" src=\"cameraimages/RichardsDavieEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Davie St - South\" height=\"480\" src=\"cameraimages/RichardsDavieSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Davie St - West\" height=\"480\" src=\"cameraimages/RichardsDavieWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsDrake.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Drake St - North\" height=\"480\" src=\"cameraimages/RichardsDrakeNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Drake St - East\" height=\"480\" src=\"cameraimages/RichardsDrakeEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Drake St - South\" height=\"480\" src=\"cameraimages/RichardsDrakeSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Drake St - West\" height=\"480\" src=\"cameraimages/RichardsDrakeWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsDunsmuir.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Dunsmuir St - North\" height=\"480\" src=\"cameraimages/RichardsDunsmuirNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Dunsmuir St - East\" height=\"480\" src=\"cameraimages/RichardsDunsmuirEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Dunsmuir St - South\" height=\"480\" src=\"cameraimages/RichardsDunsmuirSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Dunsmuir St - West\" height=\"480\" src=\"cameraimages/RichardsDunsmuirWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Georgia St - North\" height=\"480\" src=\"cameraimages/RichardsGeorgiaNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Georgia St - East\" height=\"480\" src=\"cameraimages/RichardsGeorgiaEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Georgia St - South\" height=\"480\" src=\"cameraimages/RichardsGeorgiaSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Georgia St - West\" height=\"480\" src=\"cameraimages/RichardsGeorgiaWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsHastings.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and E. Hastings St. - North\" height=\"480\" src=\"cameraimages/RichardsHastingsNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and E. Hastings St. - East\" height=\"480\" src=\"cameraimages/RichardsHastingsEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and E. Hastings St. - South\" height=\"480\" src=\"cameraimages/RichardsHastingsSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and E. Hastings St. - West\" height=\"480\" src=\"cameraimages/RichardsHastingsWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsHelmcken.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Helmcken St - North\" height=\"480\" src=\"cameraimages/RichardsHelmckenNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Helmcken St - East\" height=\"480\" src=\"cameraimages/RichardsHelmckenEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Helmcken St - South\" height=\"480\" src=\"cameraimages/RichardsHelmckenSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Helmcken St - West\" height=\"480\" src=\"cameraimages/RichardsHelmckenWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsNelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Nelson St - North\" height=\"480\" src=\"cameraimages/RichardsNelsonNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Nelson St - East\" height=\"480\" src=\"cameraimages/RichardsNelsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Nelson St - South\" height=\"480\" src=\"cameraimages/RichardsNelsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Nelson St - West\" height=\"480\" src=\"cameraimages/RichardsNelsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsPacific.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Pacific St - North\" height=\"480\" src=\"cameraimages/RichardsPacificNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Pacific St - East\" height=\"480\" src=\"cameraimages/RichardsPacificEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Pacific St - South\" height=\"480\" src=\"cameraimages/RichardsPacificSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Pacific St - West\" height=\"480\" src=\"cameraimages/RichardsPacificWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsPender.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and W Pender St - North\" height=\"480\" src=\"cameraimages/RichardsPenderNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and W Pender St - East\" height=\"480\" src=\"cameraimages/RichardsPenderEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and W Pender St - South\" height=\"480\" src=\"cameraimages/RichardsPenderSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and W Pender St - West\" height=\"480\" src=\"cameraimages/RichardsPenderWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsRobson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Robson St - North\" height=\"480\" src=\"cameraimages/RichardsRobsonNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Robson St - East\" height=\"480\" src=\"cameraimages/RichardsRobsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Robson St - South\" height=\"480\" src=\"cameraimages/RichardsRobsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Robson St - West\" height=\"480\" src=\"cameraimages/RichardsRobsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/richardsSmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Richards St and Smithe St - North\" height=\"480\" src=\"cameraimages/RichardsSmitheNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Richards St and Smithe St - East\" height=\"480\" src=\"cameraimages/RichardsSmitheEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Richards St and Smithe St - South\" height=\"480\" src=\"cameraimages/RichardsSmitheSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Richards St and Smithe St - West\" height=\"480\" src=\"cameraimages/RichardsSmitheWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/RiverDistrictMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"River District Crossing and Marine Way - East\" height=\"480\" src=\"cameraimages/RiverDistrictMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"River District Crossing and Marine Way - South\" height=\"480\" src=\"cameraimages/RiverDistrictMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"River District Crossing and Marine Way - West\" height=\"480\" src=\"cameraimages/RiverDistrictMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/ross41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Ross St and E 41st Ave - North\" height=\"480\" src=\"cameraimages/Ross41North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Ross St and E 41st Ave - East\" height=\"480\" src=\"cameraimages/Ross41East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Ross St and E 41st Ave - South\" height=\"480\" src=\"cameraimages/Ross41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Ross St and E 41st Ave - West\" height=\"480\" src=\"cameraimages/Ross41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/rupert03rd.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Rupert St and E 3rd Ave - North\" height=\"480\" src=\"cameraimages/Rupert03North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Rupert St and E 3rd Ave - East\" height=\"480\" src=\"cameraimages/Rupert03East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Rupert St and E 3rd Ave - South\" height=\"480\" src=\"cameraimages/Rupert03South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Rupert St and E 3rd Ave - West\" height=\"480\" src=\"cameraimages/Rupert03West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/rupert41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Rupert St and E 41st Ave - North\" height=\"480\" src=\"cameraimages/Rupert41North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Rupert St and E 41st Ave - East\" height=\"480\" src=\"cameraimages/Rupert41East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Rupert St and E 41st Ave - South\" height=\"480\" src=\"cameraimages/Rupert41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Rupert St and E 41st Ave - West\" height=\"480\" src=\"cameraimages/Rupert41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/rupert45.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Rupert St and E 45th Ave - North\" height=\"480\" src=\"cameraimages/Rupert45North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Rupert St and E 45th Ave - East\" height=\"480\" src=\"cameraimages/Rupert45East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Rupert St and E 45th Ave - South\" height=\"480\" src=\"cameraimages/Rupert45South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Rupert St and E 45th Ave - West\" height=\"480\" src=\"cameraimages/Rupert45West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/rupertE22.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Rupert St and E 22nd Ave - North\" height=\"480\" src=\"cameraimages/RupertE22north.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Rupert St and E 22nd Ave - East\" height=\"480\" src=\"cameraimages/RupertE22east.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Rupert St and E 22nd Ave - South\" height=\"480\" src=\"cameraimages/RupertE22south.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Rupert St and E 22nd Ave - West\" height=\"480\" src=\"cameraimages/RupertE22west.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/sasamat10.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Sasamat St and W 10th Ave - North\" height=\"202\" src=\"cameraimages/Sasamat10North.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Sasamat St and W 10th Ave - East\" height=\"202\" src=\"cameraimages/Sasamat10East.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Sasamat St and W 10th Ave - South\" height=\"202\" src=\"cameraimages/Sasamat10South.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Sasamat St and W 10th Ave - West\" height=\"202\" src=\"cameraimages/Sasamat10West.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/SawmillEastMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Sawmill Cres East and Marine Way - North\" height=\"480\" src=\"cameraimages/SawmillEastMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Sawmill Cres East and Marine Way - East\" height=\"480\" src=\"cameraimages/SawmillEastMarineEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Sawmill Cres East and Marine Way - South\" height=\"480\" src=\"cameraimages/SawmillEastMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Sawmill Cres East and Marine Way - West\" height=\"480\" src=\"cameraimages/SawmillEastMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/SawmillWestMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Sawmill Cres West and Marine Way - East\" height=\"480\" src=\"cameraimages/SawmillWestMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Sawmill Cres West and Marine Way - South\" height=\"480\" src=\"cameraimages/SawmillWestMarineSouth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Sawmill Cres West and Marine Way - West\" height=\"480\" src=\"cameraimages/SawmillWestMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/scotia2.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Scotia St and E 2nd Ave - North\" height=\"480\" src=\"cameraimages/Scotia02North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Scotia St and E 2nd Ave - East\" height=\"480\" src=\"cameraimages/Scotia02East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Scotia St and E 2nd Ave - South\" height=\"480\" src=\"cameraimages/Scotia02South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Scotia St and E 2nd Ave - West\" height=\"480\" src=\"cameraimages/Scotia02West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/seymourDunsmuir.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Seymour St and Dunsmuir St - North\" height=\"202\" src=\"cameraimages/SeymourDunsmuirNorth.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Seymour St and Dunsmuir St - East\" height=\"202\" src=\"cameraimages/SeymourDunsmuirEast.jpg\" width=\"303\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Seymour St and Dunsmuir St - South\" height=\"202\" src=\"cameraimages/SeymourDunsmuirSouth.jpg\" width=\"303\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Seymour St and Dunsmuir St - West\" height=\"202\" src=\"cameraimages/SeymourDunsmuirWest.jpg\" width=\"303\"/> </div>"
+    ],
+    "https://trafficcams.vancouver.ca/seymourGeorgia.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Seymour St and Georgia St - North\" height=\"480\" src=\"cameraimages/SeymourGeorgiaNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Seymour St and Georgia St - East\" height=\"480\" src=\"cameraimages/SeymourGeorgiaEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Seymour St and Georgia St - South\" height=\"480\" src=\"cameraimages/SeymourGeorgiaSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Seymour St and Georgia St - West\" height=\"480\" src=\"cameraimages/SeymourGeorgiaWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/seymourNelson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Seymour St and Nelson St - North\" height=\"480\" src=\"cameraimages/SeymourNelsonNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Seymour St and Nelson St - East\" height=\"480\" src=\"cameraimages/SeymourNelsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Seymour St and Nelson St - South\" height=\"480\" src=\"cameraimages/SeymourNelsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Seymour St and Nelson St - West\" height=\"480\" src=\"cameraimages/SeymourNelsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/seymourRobson.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Seymour St and Robson St - North\" height=\"480\" src=\"cameraimages/SeymourRobsonNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Seymour St and Robson St - East\" height=\"480\" src=\"cameraimages/SeymourRobsonEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Seymour St and Robson St - South\" height=\"480\" src=\"cameraimages/SeymourRobsonSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Seymour St and Robson St - West\" height=\"480\" src=\"cameraimages/SeymourRobsonWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/seymourSmithe.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Seymour St and Smithe St - North\" height=\"480\" src=\"cameraimages/SeymourSmitheNorth.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Seymour St and Smithe St - East\" height=\"480\" src=\"cameraimages/SeymourSmitheEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Seymour St and Smithe St - South\" height=\"480\" src=\"cameraimages/SeymourSmitheSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Seymour St and Smithe St - West\" height=\"480\" src=\"cameraimages/SeymourSmitheWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/slocanKingsway.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Slocan St and Kingsway - North\" height=\"480\" src=\"cameraimages/SlocanKingsway_North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Slocan St and Kingsway - East\" height=\"480\" src=\"cameraimages/SlocanKingsway_East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Slocan St and Kingsway - South\" height=\"480\" src=\"cameraimages/SlocanKingsway_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Slocan St and Kingsway - West\" height=\"480\" src=\"cameraimages/SlocanKingsway_West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/ThurlowCanadaPlace.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Thurlow St and Canada Place - North\" height=\"480\" src=\"cameraimages/ThurlowCanadaPlace_North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Thurlow St and Canada Place - East\" height=\"480\" src=\"cameraimages/ThurlowCanadaPlace_East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Thurlow St and Canada Place - South\" height=\"480\" src=\"cameraimages/ThurlowCanadaPlace_South.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/thurlowPacific.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Thurlow St and Pacific St - North\" height=\"480\" src=\"cameraimages/ThurlowPacificN_North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Thurlow St and Pacific St - East\" height=\"480\" src=\"cameraimages/ThurlowPacificE_East.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Thurlow St and Pacific St - South\" height=\"480\" src=\"cameraimages/ThurlowPacificN_South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Thurlow St and Pacific St - West\" height=\"480\" src=\"cameraimages/ThurlowPacificE_West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/victoria12.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Victoria Dr and E 12th Ave - North\" height=\"480\" src=\"cameraimages/Victoria12North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Victoria Dr and E 12th Ave - East\" height=\"480\" src=\"cameraimages/Victoria12East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Victoria Dr and E 12th Ave - South\" height=\"480\" src=\"cameraimages/Victoria12South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Victoria Dr and E 12th Ave - West\" height=\"480\" src=\"cameraimages/Victoria12West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/victoria41.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Victoria Dr and E 41st Ave - North\" height=\"480\" src=\"cameraimages/Victoria41North.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Victoria Dr and E 41st Ave - East\" height=\"480\" src=\"cameraimages/Victoria41East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Victoria Dr and E 41st Ave - South\" height=\"480\" src=\"cameraimages/Victoria41South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Victoria Dr and E 41st Ave - West\" height=\"480\" src=\"cameraimages/Victoria41West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/victoria49.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Victoria Dr and E 49th Ave - North\" height=\"480\" src=\"cameraimages/Victoria49North.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Victoria Dr and E 49th Ave - East\" height=\"480\" src=\"cameraimages/Victoria49East.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Victoria Dr and E 49th Ave - South\" height=\"480\" src=\"cameraimages/Victoria49South.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Victoria Dr and E 49th Ave - West\" height=\"480\" src=\"cameraimages/Victoria49West.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/victoriaMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Victoria Dr and Marine Dr - North\" height=\"480\" src=\"cameraimages/VictoriaMarineNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Victoria Dr and Marine Dr - East\" height=\"480\" src=\"cameraimages/VictoriaMarineEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Victoria Dr and Marine Dr - South\" height=\"480\" src=\"cameraimages/VictoriaMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Victoria Dr and Marine Dr - West\" height=\"480\" src=\"cameraimages/VictoriaMarineWest.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/victoriaVictoriaCommercial.htm": [
+        "<div class=\"camera\">\n<p><strong>North</strong></p>\n<img alt=\"Victoria, Victoria, Commercial - North\" height=\"480\" src=\"cameraimages/VictoriaVicComNorth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Victoria, Victoria, Commercial - East\" height=\"480\" src=\"cameraimages/VictoriaVicComEast.jpg\" width=\"720\"/> </div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Victoria, Victoria, Commercial - South\" height=\"480\" src=\"cameraimages/VictoriaVicComSouth.jpg\" width=\"720\"/></div>"
+    ],
+    "https://trafficcams.vancouver.ca/yukonSWMarine.htm": [
+        "<div class=\"camera\">\n<p><strong>East</strong></p>\n<img alt=\"Yukon St and SW Marine Drive - East\" height=\"480\" src=\"cameraimages/YukonSWMarineEast.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>South</strong></p>\n<img alt=\"Yukon St and SW Marine Drive - South\" height=\"480\" src=\"cameraimages/YukonSWMarineSouth.jpg\" width=\"720\"/></div>",
+        "<div class=\"camera\">\n<p><strong>West</strong></p>\n<img alt=\"Yukon St and SW Marine Drive - West\" height=\"480\" src=\"cameraimages/YukonSWMarineWest.jpg\" width=\"720\"/></div>"
+    ]
+}
