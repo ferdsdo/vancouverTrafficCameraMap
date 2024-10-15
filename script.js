@@ -133,7 +133,7 @@ function toggleSidebar(id) {
         // Remove the 'collapsed' class from the class list of the element, this sets it back to the expanded state.
         classes.splice(classes.indexOf('collapsed'), 1);
 
-        padding[id] = 400; // In px, matches the width of the sidebars set in .sidebar CSS class
+        padding[id] = 0; // In px, matches the width of the sidebars set in .sidebar CSS class
         map.easeTo({
             padding,
             duration: 1000 // In ms, CSS transition duration property for the sidebar matches this value
@@ -170,13 +170,17 @@ fetch('scraped_data.json')
             tempDiv.innerHTML = htmlString;
 
             const imgElement = tempDiv.querySelector('img');
+            const linkElement = document.createElement('a');
 
             if(imgElement) {
                 const currentSrc = imgElement.src; // This gives the absolute URL
-                // Modify the src attribute to add 'www.' to the front
                 const newSrc = currentSrc.replace(window.location, camLink); // This regex retains the original domain and path after 'http(s)://'
                 
                 imgElement.src = newSrc; // Set the new src value
+                linkElement.href = newSrc;
+                linkElement.target = "_blank";
+                imgElement.parentNode.insertBefore(linkElement, imgElement);
+                linkElement.appendChild(imgElement)
             }
         const modifiedHtmlString = tempDiv.innerHTML;
         htmlElement.appendChild(tempDiv)
@@ -199,7 +203,7 @@ function setPanelContent(feature) {
             document.getElementById('right-text').innerHTML = ''
             clickedGeoJson = sortGeoJSONFeatureProperties(feature); // make it so sidebar properties are sorted
 
-            getHtmlContent(clickedGeoJson.properties['url'],tbody)
+            getHtmlContent(clickedGeoJson.properties['url'],document.getElementById('right-text'))
 
             for (let key in clickedGeoJson.properties) {
                 if (clickedGeoJson.properties.hasOwnProperty(key)) {

@@ -60,6 +60,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    top: 0;
+    bottom: 0;
+    overflow: scroll;
 }
 
 #jsonTable {
@@ -69,13 +72,20 @@
 
 #tbody {
     table-layout:fixed;
-    width:95%;
+    width:40%;
 }
 
 #tbody tr{
     word-break: break-all;
     border: #0aa1cf;
+    
 }
+
+.camera  img {
+    width: auto;
+    height: 150px;
+}
+
 tr:hover {
     background-color: #F0F0F0;
 }
@@ -85,10 +95,15 @@ tr:hover {
     top: 5em;
     width: 1.3em;
     height: 1.3em;
-    overflow: visible;
-    display: flex;
+    overflow: auto;
     justify-content: center;
     align-items: center;
+}
+
+#right-text {
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 td > a { display: block; width: 100%; height: 100%; } 
